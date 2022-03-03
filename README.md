@@ -8,16 +8,17 @@
 
 <div align ="left">
 <p> Hi There! I'm a Backend Engineer.</p>
-<p> My main skills are Python, Java.</p>
+<p> My main skills are Python, ML/DL</p>
+<p> and interested in Java, Spring. </p>
 <p> I want to handle stable data management and a lot of data and hope to develop beautiful things in the world.</p>
-<p> I h</p>
+
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changho0514&show_icons=true&theme=tokyonight)
 
 
 <h3>🔥 I Study.. Ing 🔥</h3>
-<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/c-pink?style=flat&logo=c&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;</p>
+<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-pink?style=flat&logo=c&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;</p>
 
 
 </div>
