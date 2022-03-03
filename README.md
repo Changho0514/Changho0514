@@ -9,8 +9,8 @@
 <div align ="left">
 <p> Hi There! I'm a Backend Engineer.</p>
 <p> My main skills are Python, ML/DL</p>
-<p> and interested in Java, Spring. </p>
-<p> I want to handle stable data management and a lot of data and hope to develop beautiful things in the world.</p>
+<p> and interested in **Java**, **Spring**. </p>
+<p> I want to develop beautiful things in the world.</p>
 
 
 #
