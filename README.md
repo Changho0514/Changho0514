@@ -5,8 +5,9 @@
 <h3> 💁‍♂️About me</h3>
 <p><a href="https://www.notion.so/Back-end-Develop-9d19eade0d6a4879a5c4dab0d840a29b" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a></p>
 
-  <p>Hi There! I'm a  Engineer.</p>
-<p> My main skills are Python, ML/DL </p>
+<p align="left">  
+<p>Hi There! I'm a Backend Engineer.</p>
+<p> My main skills are Python, Java</p>
 <p>I want to handle stable data management and a lot of data.</p>
   
 #
