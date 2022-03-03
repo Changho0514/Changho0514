@@ -8,10 +8,9 @@
 
 <div align ="left">
 <p> Hi There! I'm a Backend Engineer.</p>
-<p> My main skills are Python, Java</p>
-<p> I want to handle stable data management and a lot of data.</p>
-<p> I enjoy workout, soccer, </p>
-<p> I hope to develop beautiful things in the world</p>
+<p> My main skills are Python, Java.</p>
+<p> I want to handle stable data management and a lot of data and hope to develop beautiful things in the world.</p>
+<p> I h</p>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changho0514&show_icons=true&theme=tokyonight)
