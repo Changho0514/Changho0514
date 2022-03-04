@@ -7,10 +7,10 @@
 </div>
 
 <div align ="left">
-<p> Hi There! I'm a Backend Engineer.</p>
-<p> My main skills are Python, ML/DL</p>
-<p> and interested in Web development via Java, Spring. </p>
-<p> I want to develop beautiful things in the world.</p>
+<br> Hi There! I'm a Backend Engineer.</br>
+<br> My main skills are Python, ML/DL</br>
+<br> and interested in Web development via Java, Spring. </br>
+<br> I want to develop beautiful things in the world.</br>
 
 
 #
