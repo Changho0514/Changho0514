@@ -8,9 +8,8 @@
 
 <div align ="left">
 <p style="line-height:50%"> Hi There! I'm a Backend Engineer.</p>
-<p style="line-height:50%"> My main skills are Spring, Java, MySQL </p>
-<p style="line-height:50%"> and interested in Web development via Redis </p>
-<p style="line-height:50%"> I want to develop beautiful things in the world.</p>
+<p style="line-height:50%"> My main skills are Spring, Java, MySQL, JSP </p>
+<p style="line-height:50%"> and interested in Web development via MVC pattern </p>
 
 
 #
