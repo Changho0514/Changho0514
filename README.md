@@ -17,7 +17,9 @@
 
 
 <h3>🔥 I Study.. Ing 🔥</h3>
-src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;</p>
+
+
 
 
 </div>
