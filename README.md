@@ -8,7 +8,7 @@
 
 <div align ="left">
 <p style="line-height:50%"> Hi There! I'm a Backend Engineer.</p>
-<p style="line-height:50%"> My main skills are Spring, Java, MySQL, JSP </p>
+<p style="line-height:50%"> My main skills are Spring Boot, Java, MySQL, queryDsl, Redis, Kafka, JSP </p>
 <p style="line-height:50%"> and interested in Web development via MVC pattern </p>
 
 
